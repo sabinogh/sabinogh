@@ -1,24 +1,20 @@
-### Olá!!! Eu sou o Guilherme H. Sabino 👋
+### Business Intelligence Analyst | Data Analyst 
 <!--Site para este tema STATS: https://github.com/anuraghazra/github-readme-stats-->
 <!--Site para emoki:https://emojipedia.org/search/?q=bag-->
-- 🔭 Hoje trabalho com front-end e 
-- 🌱 Sempre estudando e aprendendo novos metodos
-- 👯 Estou em busca de colocação no mercado
-- ⚡ Experiencias em gestão de projetos e solução de problemas 
-- 📫 Contate-me no e-mail: gh.sabino@gmail.com
+I am a highly analytical and results-driven Business Intelligence and Data Analyst with a strong background in Cost Controlling and Financial Data Analysis. With expertise in Power BI, SQL, Python, and VBA, I specialize in transforming complex datasets into strategic business insights, helping organizations optimize their financial performance and decision-making processes.
 
-<div align="center">
-  <a href="https://github.com/sabinogh">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sabinogh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinogh&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+I have experience developing data structures and financial projections, improving operational efficiency through KPI analysis, and enhancing data communication across departments. My role involves:
 
-<!--Site para Badges 1: https://dev.to/envoy_/150-badges-for-github-pnk-->
-<!--Site para icones temos:https://devicon.dev/-->
-  
+• Optimizing performance indicators (KPIs) and operational processes;
+• Developing automated solutions to streamline business operations;
+• Enhancing cross-departmental communication for better decision-making;
+• Implementing structured financial control and business intelligence strategiess;
+• Aligning business processes with executive management for continuous improvement.
+
+I am passionate about leveraging data-driven insights to enhance financial efficiency, reduce costs, and drive strategic growth.
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
@@ -30,7 +26,5 @@
  	<a href = "mailto:gh.sabino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-h-sabino-94b2a1139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/sabinogh/sabinogh/blob/output/github-contribution-grid-snake.svg)
  
 </div>
