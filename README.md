@@ -1,23 +1,22 @@
 ### Business Intelligence Analyst | Data Analyst 
 <!--Site para este tema STATS: https://github.com/anuraghazra/github-readme-stats-->
 <!--Site para emoki:https://emojipedia.org/search/?q=bag-->
-I am a highly analytical and results-driven Business Intelligence and Data Analyst with a strong background in Cost Controlling and Financial Data Analysis. With expertise in Power BI, SQL, Python, and VBA, I specialize in transforming complex datasets into strategic business insights, helping organizations optimize their financial performance and decision-making processes.
+I am a Business Intelligence Analyst specialized in transforming complex data into strategic insights that drive business decisions and optimize organizational performance. With solid expertise in financial analysis and cost control, I develop BI solutions that connect operational data to enterprise strategy.
 
-I have experience developing data structures and financial projections, improving operational efficiency through KPI analysis, and enhancing data communication across departments. My role involves:
+I utilize Power BI as my primary tool to create interactive dashboards and executive reports that facilitate decision-making at all organizational levels, always focusing on real impact on company results. I have experience working in dynamic corporate environments and collaborating with multidisciplinary teams to deliver measurable outcomes.
 
-• Optimizing performance indicators (KPIs) and operational processes;
-• Developing automated solutions to streamline business operations;
-• Enhancing cross-departmental communication for better decision-making;
-• Implementing structured financial control and business intelligence strategiess;
-• Aligning business processes with executive management for continuous improvement.
+Core Competencies:
 
-I am passionate about leveraging data-driven insights to enhance financial efficiency, reduce costs, and drive strategic growth.
+• End-to-end Business Intelligence solution development
+• Financial performance analysis and optimization opportunity identification
+• Strategic KPI creation and interactive executive dashboards
+• Data modeling and BI project structuring
+• Analytics process automation and reporting
+• Cross-departmental data integration for unified business vision
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+My differentiator lies in the ability to translate business needs into practical technical solutions, working collaboratively with stakeholders from different areas to ensure that analyses generate tangible value and support strategic objectives.
+
+I am constantly seeking ways to use data to solve complex problems, reduce operational costs, and identify growth opportunities that contribute to business competitiveness in the global market.
   
 ##
   
